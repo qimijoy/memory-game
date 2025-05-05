@@ -1,0 +1,19 @@
+{
+	"name": "memory-game",
+	"private": true,
+	"type": "module",
+	"engines": {
+		"node": ">= 22.15.0",
+		"npm": ">= 10.9.2"
+	},
+	"devDependencies": {
+		"@eslint/js": "9.26.0",
+		"@qimijoy/prettier-config": "1.0.2",
+		"eslint": "9.26.0",
+		"eslint-config-prettier": "10.1.2",
+		"eslint-plugin-jsdoc": "50.6.11",
+		"eslint-plugin-prettier": "5.4.0",
+		"globals": "16.0.0",
+		"prettier": "3.5.3"
+	}
+}
