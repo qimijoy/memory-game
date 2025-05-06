@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "noEmit": true,
+    "allowJs": true,
+    "target": "ES2024",
+    "moduleResolution": "bundler",
+    "skipLibCheck": true,
+    "strict": true,
+    "paths": {
+      "@/*": ["./src/*"],
+      "@config/*": ["./config/*"],
+    },
+    "module": "ESNext"
+  },
+}
